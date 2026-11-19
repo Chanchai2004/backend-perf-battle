@@ -1,0 +1,6 @@
+backends/node/node_modules/
+backends/rust/target/
+backends/dotnet/bin/
+backends/dotnet/obj/
+results/contract/
+__pycache__/
